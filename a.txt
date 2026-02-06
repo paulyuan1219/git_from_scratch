@@ -1,2 +1,3 @@
 Line-1
 Line-2
+This line will cause conflict, introduced by master
