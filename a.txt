@@ -1,2 +1,3 @@
 Line-1
 Line-2
+Line-3 added on dev-1, to demo fast merge.
