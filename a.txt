@@ -1,3 +1,9 @@
 Line-1
 Line-2
+<<<<<<< HEAD
 This line will cause conflict, introduced by master
+=======
+Line-3 added on dev-1, to demo fast merge.
+Line-4 added on dev-1, to demo fast merge.
+>>>>>>> dev-1
+I am happy with this version.
